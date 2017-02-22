@@ -1,12 +1,13 @@
 # Labyrinth
 
-This is the source code for the multiplayer, [Game
-Gardens](http://www.gamegardens.com/) adaptation of Ravensburger's classic
+This is the source code for the multiplayer, Game
+Gardens adaptation of Ravensburger's classic
 game Labyrinth Jr which I created for the Three Rings/SEGA programming
 challenge a while back. While there are some minor changes in this version,
 the basic game play is the same.
 
-You can play the game [here](http://www.gamegardens.com/gardens/view_game.wm?gameid=125).
+~~You can play the game here.~~ Unfortunately, the Game Gardens website is no longer
+online and so the game can no longer be played.
 
 This is a game of problem solving and treasure collection for two to four
 players.  Players take turns shifting the maze and then moving their ghosts
